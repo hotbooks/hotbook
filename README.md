@@ -1,1 +1,3 @@
 # hotbook
+
+Daily Sales
